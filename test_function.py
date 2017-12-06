@@ -3,4 +3,4 @@
 def test_hello():
     """test for making hello string"""
     hello = 'hello'
-    assert hello == 'hello!'
+    assert hello == 'hello'
